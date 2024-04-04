@@ -1,0 +1,760 @@
+2024-04-03 18:09:01.5361 | Hotel.MainForm..ctor | TRACE | Заполнение списка из базы данных... 
+
+2024-04-03 18:09:01.5551 | Hotel.MainForm.FillListBoxWithGuests | TRACE | Используется  метод для заполненмия списка данными 
+
+2024-04-03 18:09:01.5591 | Hotel.MainForm.GetGuestsFromDatabase | INFO | Загрузка метода, возвращающего список из полученных данных 
+
+2024-04-03 18:09:01.6611 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 18:09:01.6611 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Запрос списка гостей с ID и именем 
+
+2024-04-03 18:09:01.6741 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:09:01.6741 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:09:01.6741 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:09:01.6741 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:09:01.6741 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:09:01.6741 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:09:01.6741 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:09:01.6741 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:09:01.6741 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:09:01.6741 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:09:01.6741 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:09:01.6741 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:09:01.6741 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:09:01.6741 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Список успешно возвращен. Затраченное время(мс): 20 
+
+2024-04-03 18:09:01.6741 | Hotel.MainForm.FillListBoxWithGuests | TRACE | Список заполнен. Теперь список переносится в listbox 
+
+2024-04-03 18:09:01.6741 | Hotel.MainForm..ctor | TRACE | Данные в таблицу успешно введены. Затраченное время(мс): 20 
+
+2024-04-03 18:09:01.7181 | Hotel.MainForm.MainForm_Load | TRACE | происходит загрузка таймера... 
+
+2024-04-03 18:09:01.7181 | Hotel.MainForm.MainForm_Load | TRACE | загрузка таймера прошла успешно. Затраченное время(мс): 20 
+
+2024-04-03 18:09:29.5410 | Hotel.MainForm.closeButton_Click | INFO | Происходит закрытие приложения 
+
+2024-04-03 18:23:01.6222 | Hotel.MainForm..ctor | TRACE | Заполнение списка из базы данных... 
+
+2024-04-03 18:23:01.6482 | Hotel.MainForm.FillListBoxWithGuests | TRACE | Используется  метод для заполненмия списка данными 
+
+2024-04-03 18:23:01.6482 | Hotel.MainForm.GetGuestsFromDatabase | INFO | Загрузка метода, возвращающего список из полученных данных 
+
+2024-04-03 18:23:01.6957 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 18:23:01.6957 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Запрос списка гостей с ID и именем 
+
+2024-04-03 18:23:01.7017 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:23:01.7017 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:23:01.7017 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:23:01.7017 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:23:01.7017 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:23:01.7017 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:23:01.7017 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:23:01.7017 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:23:01.7017 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:23:01.7017 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:23:01.7017 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:23:01.7017 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:23:01.7017 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:23:01.7017 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Список успешно возвращен. Затраченное время(мс): 20 
+
+2024-04-03 18:23:01.7017 | Hotel.MainForm.FillListBoxWithGuests | TRACE | Список заполнен. Теперь список переносится в listbox 
+
+2024-04-03 18:23:01.7017 | Hotel.MainForm..ctor | TRACE | Данные в таблицу успешно введены. Затраченное время(мс): 20 
+
+2024-04-03 18:23:01.7390 | Hotel.MainForm.MainForm_Load | TRACE | происходит загрузка таймера... 
+
+2024-04-03 18:23:01.7390 | Hotel.MainForm.MainForm_Load | TRACE | загрузка таймера прошла успешно. Затраченное время(мс): 20 
+
+2024-04-03 18:23:03.7404 | Hotel.MainForm.closeButton_Click | INFO | Происходит закрытие приложения 
+
+2024-04-03 18:38:31.0080 | Hotel.MainForm..ctor | TRACE | Заполнение списка из базы данных... 
+
+2024-04-03 18:38:31.0320 | Hotel.MainForm.FillListBoxWithGuests | TRACE | Используется  метод для заполненмия списка данными 
+
+2024-04-03 18:38:31.0320 | Hotel.MainForm.GetGuestsFromDatabase | INFO | Загрузка метода, возвращающего список из полученных данных 
+
+2024-04-03 18:38:31.0800 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 18:38:31.0800 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Запрос списка гостей с ID и именем 
+
+2024-04-03 18:38:31.0800 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:38:31.0800 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:38:31.0800 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:38:31.0800 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:38:31.0800 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:38:31.0800 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:38:31.0800 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:38:31.0800 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:38:31.0800 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:38:31.0800 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:38:31.0800 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:38:31.0800 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:38:31.0800 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:38:31.0800 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Список успешно возвращен. Затраченное время(мс): 20 
+
+2024-04-03 18:38:31.0800 | Hotel.MainForm.FillListBoxWithGuests | TRACE | Список заполнен. Теперь список переносится в listbox 
+
+2024-04-03 18:38:31.0800 | Hotel.MainForm..ctor | TRACE | Данные в таблицу успешно введены. Затраченное время(мс): 20 
+
+2024-04-03 18:38:31.1050 | Hotel.MainForm.MainForm_Load | TRACE | происходит загрузка таймера... 
+
+2024-04-03 18:38:31.1050 | Hotel.MainForm.MainForm_Load | TRACE | загрузка таймера прошла успешно. Затраченное время(мс): 20 
+
+2024-04-03 18:39:11.1727 | Hotel.MainForm.closeButton_Click | INFO | Происходит закрытие приложения 
+
+2024-04-03 18:45:34.0788 | Hotel.MainForm..ctor | TRACE | Заполнение списка из базы данных... 
+
+2024-04-03 18:45:34.0988 | Hotel.MainForm.FillListBoxWithGuests | TRACE | Используется  метод для заполненмия списка данными 
+
+2024-04-03 18:45:34.0988 | Hotel.MainForm.GetGuestsFromDatabase | INFO | Загрузка метода, возвращающего список из полученных данных 
+
+2024-04-03 18:45:34.1467 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 18:45:34.1467 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Запрос списка гостей с ID и именем 
+
+2024-04-03 18:45:34.1527 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:45:34.1527 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:45:34.1527 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:45:34.1527 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:45:34.1527 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:45:34.1527 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:45:34.1527 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:45:34.1527 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:45:34.1527 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:45:34.1527 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:45:34.1527 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:45:34.1527 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:45:34.1527 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:45:34.1527 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Список успешно возвращен. Затраченное время(мс): 20 
+
+2024-04-03 18:45:34.1527 | Hotel.MainForm.FillListBoxWithGuests | TRACE | Список заполнен. Теперь список переносится в listbox 
+
+2024-04-03 18:49:55.6005 | Hotel.MainForm..ctor | TRACE | Заполнение списка из базы данных... 
+
+2024-04-03 18:49:55.6228 | Hotel.MainForm.FillListBoxWithGuests | TRACE | Используется  метод для заполненмия списка данными 
+
+2024-04-03 18:49:55.6228 | Hotel.MainForm.GetGuestsFromDatabase | INFO | Загрузка метода, возвращающего список из полученных данных 
+
+2024-04-03 18:49:55.6738 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 18:49:55.6738 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Запрос списка гостей с ID и именем 
+
+2024-04-03 18:49:55.6738 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:49:55.6738 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:49:55.6738 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:49:55.6738 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:49:55.6738 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:49:55.6738 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:49:55.6738 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:49:55.6738 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:49:55.6738 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:49:55.6738 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:49:55.6738 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:49:55.6738 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:49:55.6738 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:49:55.6738 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Список успешно возвращен. Затраченное время(мс): 20 
+
+2024-04-03 18:49:55.6738 | Hotel.MainForm.FillListBoxWithGuests | TRACE | Список заполнен. Теперь список переносится в listbox 
+
+2024-04-03 18:49:55.6858 | Hotel.MainForm.LoadGuestData | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 18:50:51.4043 | Hotel.MainForm..ctor | TRACE | Заполнение списка из базы данных... 
+
+2024-04-03 18:50:51.4237 | Hotel.MainForm.FillListBoxWithGuests | TRACE | Используется  метод для заполненмия списка данными 
+
+2024-04-03 18:50:51.4237 | Hotel.MainForm.GetGuestsFromDatabase | INFO | Загрузка метода, возвращающего список из полученных данных 
+
+2024-04-03 18:50:51.4715 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 18:50:51.4715 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Запрос списка гостей с ID и именем 
+
+2024-04-03 18:50:51.4715 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:50:51.4715 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:50:51.4715 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:50:51.4715 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:50:51.4715 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:50:51.4715 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:50:51.4715 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:50:51.4715 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:50:51.4715 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:50:51.4715 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:50:51.4715 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:50:51.4795 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:50:51.4795 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:50:51.4795 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Список успешно возвращен. Затраченное время(мс): 20 
+
+2024-04-03 18:50:51.4795 | Hotel.MainForm.FillListBoxWithGuests | TRACE | Список заполнен. Теперь список переносится в listbox 
+
+2024-04-03 18:50:51.4795 | Hotel.MainForm.LoadGuestData | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 18:50:51.4795 | Hotel.MainForm..ctor | TRACE | Данные в таблицу успешно введены. Затраченное время(мс): 20 
+
+2024-04-03 18:50:51.5545 | Hotel.MainForm.MainForm_Load | TRACE | происходит загрузка таймера... 
+
+2024-04-03 18:50:51.5545 | Hotel.MainForm.MainForm_Load | TRACE | загрузка таймера прошла успешно. Затраченное время(мс): 20 
+
+2024-04-03 18:50:53.9115 | Hotel.MainForm.LoadGuestData | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 18:50:55.2876 | Hotel.MainForm.LoadGuestData | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 18:50:55.2876 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'номер' вводятся данные из бд 
+
+2024-04-03 18:50:55.2935 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'фио' вводятся данные из бд 
+
+2024-04-03 18:50:55.2935 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата заезда' вводятся данные из бд 
+
+2024-04-03 18:50:55.2935 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата выезда' вводятся данные из бд 
+
+2024-04-03 18:50:55.2935 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'статус' вводятся данные из бд 
+
+2024-04-03 18:51:57.2034 | Hotel.MainForm..ctor | TRACE | Заполнение списка из базы данных... 
+
+2024-04-03 18:51:57.2304 | Hotel.MainForm.FillListBoxWithGuests | TRACE | Используется  метод для заполненмия списка данными 
+
+2024-04-03 18:51:57.2304 | Hotel.MainForm.GetGuestsFromDatabase | INFO | Загрузка метода, возвращающего список из полученных данных 
+
+2024-04-03 18:51:57.2834 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 18:51:57.2834 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Запрос списка гостей с ID и именем 
+
+2024-04-03 18:51:57.2834 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:51:57.2834 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:51:57.2834 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:51:57.2834 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:51:57.2834 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:51:57.2834 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:51:57.2834 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:51:57.2834 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:51:57.2834 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:51:57.2834 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:51:57.2834 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:51:57.2834 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:51:57.2834 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 18:51:57.2834 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Список успешно возвращен. Затраченное время(мс): 20 
+
+2024-04-03 18:51:57.2834 | Hotel.MainForm.FillListBoxWithGuests | TRACE | Список заполнен. Теперь список переносится в listbox 
+
+2024-04-03 18:51:57.2928 | Hotel.MainForm.LoadGuestData | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 18:51:57.2928 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'номер' вводятся данные из бд 
+
+2024-04-03 19:06:53.6031 | Hotel.MainForm..ctor | TRACE | Заполнение списка из базы данных... 
+
+2024-04-03 19:06:53.6231 | Hotel.MainForm.FillListBoxWithGuests | TRACE | Используется  метод для заполненмия списка данными 
+
+2024-04-03 19:06:53.6231 | Hotel.MainForm.GetGuestsFromDatabase | INFO | Загрузка метода, возвращающего список из полученных данных 
+
+2024-04-03 19:06:53.6704 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 19:06:53.6704 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Запрос списка гостей с ID и именем 
+
+2024-04-03 19:06:53.6704 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 19:06:53.6704 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 19:06:53.6704 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 19:06:53.6704 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 19:06:53.6704 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 19:06:53.6704 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 19:06:53.6704 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 19:06:53.6704 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 19:06:53.6704 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 19:06:53.6704 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 19:06:53.6704 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 19:06:53.6704 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 19:06:53.6704 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 19:06:53.6704 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Список успешно возвращен. Затраченное время(мс): 20 
+
+2024-04-03 19:06:53.6704 | Hotel.MainForm.FillListBoxWithGuests | TRACE | Список заполнен. Теперь список переносится в listbox 
+
+2024-04-03 19:06:53.6704 | Hotel.MainForm.LoadGuestData | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 19:06:53.6704 | Hotel.MainForm..ctor | TRACE | Данные в таблицу успешно введены. Затраченное время(мс): 20 
+
+2024-04-03 19:06:53.7378 | Hotel.MainForm.MainForm_Load | TRACE | происходит загрузка таймера... 
+
+2024-04-03 19:06:53.7378 | Hotel.MainForm.MainForm_Load | TRACE | загрузка таймера прошла успешно. Затраченное время(мс): 20 
+
+2024-04-03 19:06:56.0701 | Hotel.MainForm.LoadGuestData | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 19:07:02.1912 | Hotel.MainForm.LoadGuestData | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 19:07:04.9516 | Hotel.MainForm.LoadGuestData | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 19:07:04.9516 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'номер' вводятся данные из бд 
+
+2024-04-03 19:07:04.9516 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'фио' вводятся данные из бд 
+
+2024-04-03 19:07:04.9516 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата заезда' вводятся данные из бд 
+
+2024-04-03 19:07:04.9516 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата выезда' вводятся данные из бд 
+
+2024-04-03 19:07:04.9516 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'статус' вводятся данные из бд 
+
+2024-04-03 19:07:07.0393 | Hotel.MainForm.LoadGuestData | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 19:07:07.8313 | Hotel.MainForm.LoadGuestData | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 19:07:07.8313 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'номер' вводятся данные из бд 
+
+2024-04-03 19:07:07.8313 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'фио' вводятся данные из бд 
+
+2024-04-03 19:07:07.8313 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата заезда' вводятся данные из бд 
+
+2024-04-03 19:07:07.8313 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата выезда' вводятся данные из бд 
+
+2024-04-03 19:07:07.8313 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'статус' вводятся данные из бд 
+
+2024-04-03 19:07:08.6799 | Hotel.MainForm.LoadGuestData | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 19:07:08.6799 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'номер' вводятся данные из бд 
+
+2024-04-03 19:07:08.6799 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'фио' вводятся данные из бд 
+
+2024-04-03 19:07:08.6799 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата заезда' вводятся данные из бд 
+
+2024-04-03 19:07:08.6799 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата выезда' вводятся данные из бд 
+
+2024-04-03 19:07:08.6799 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'статус' вводятся данные из бд 
+
+2024-04-03 19:07:09.5429 | Hotel.MainForm.LoadGuestData | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 19:07:09.5429 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'номер' вводятся данные из бд 
+
+2024-04-03 19:07:09.5429 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'фио' вводятся данные из бд 
+
+2024-04-03 19:07:09.5429 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата заезда' вводятся данные из бд 
+
+2024-04-03 19:07:09.5429 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата выезда' вводятся данные из бд 
+
+2024-04-03 19:07:09.5429 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'статус' вводятся данные из бд 
+
+2024-04-03 19:07:10.1820 | Hotel.MainForm.LoadGuestData | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 19:07:10.1832 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'номер' вводятся данные из бд 
+
+2024-04-03 19:07:10.1832 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'фио' вводятся данные из бд 
+
+2024-04-03 19:07:10.1832 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата заезда' вводятся данные из бд 
+
+2024-04-03 19:07:10.1832 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата выезда' вводятся данные из бд 
+
+2024-04-03 19:07:10.1832 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'статус' вводятся данные из бд 
+
+2024-04-03 19:07:10.7830 | Hotel.MainForm.LoadGuestData | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 19:07:10.7830 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'номер' вводятся данные из бд 
+
+2024-04-03 19:07:10.7830 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'фио' вводятся данные из бд 
+
+2024-04-03 19:07:10.7830 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата заезда' вводятся данные из бд 
+
+2024-04-03 19:07:10.7830 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата выезда' вводятся данные из бд 
+
+2024-04-03 19:07:10.7830 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'статус' вводятся данные из бд 
+
+2024-04-03 19:07:11.7025 | Hotel.MainForm.LoadGuestData | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 19:07:11.7025 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'номер' вводятся данные из бд 
+
+2024-04-03 19:07:11.7025 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'фио' вводятся данные из бд 
+
+2024-04-03 19:07:11.7025 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата заезда' вводятся данные из бд 
+
+2024-04-03 19:07:11.7025 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата выезда' вводятся данные из бд 
+
+2024-04-03 19:07:11.7025 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'статус' вводятся данные из бд 
+
+2024-04-03 19:07:12.2715 | Hotel.MainForm.LoadGuestData | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 19:07:12.2715 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'номер' вводятся данные из бд 
+
+2024-04-03 19:07:12.2715 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'фио' вводятся данные из бд 
+
+2024-04-03 19:07:12.2715 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата заезда' вводятся данные из бд 
+
+2024-04-03 19:07:12.2715 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата выезда' вводятся данные из бд 
+
+2024-04-03 19:07:12.2715 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'статус' вводятся данные из бд 
+
+2024-04-03 19:07:12.7994 | Hotel.MainForm.LoadGuestData | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 19:07:12.7994 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'номер' вводятся данные из бд 
+
+2024-04-03 19:07:12.7994 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'фио' вводятся данные из бд 
+
+2024-04-03 19:07:12.7994 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата заезда' вводятся данные из бд 
+
+2024-04-03 19:07:12.7994 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата выезда' вводятся данные из бд 
+
+2024-04-03 19:07:12.7994 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'статус' вводятся данные из бд 
+
+2024-04-03 19:07:13.3026 | Hotel.MainForm.LoadGuestData | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 19:07:13.3026 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'номер' вводятся данные из бд 
+
+2024-04-03 19:07:13.3026 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'фио' вводятся данные из бд 
+
+2024-04-03 19:07:13.3026 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата заезда' вводятся данные из бд 
+
+2024-04-03 19:07:13.3026 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата выезда' вводятся данные из бд 
+
+2024-04-03 19:07:13.3026 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'статус' вводятся данные из бд 
+
+2024-04-03 19:07:14.2735 | Hotel.MainForm.LoadGuestData | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 19:07:14.2735 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'номер' вводятся данные из бд 
+
+2024-04-03 19:07:14.2735 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'фио' вводятся данные из бд 
+
+2024-04-03 19:07:14.2735 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата заезда' вводятся данные из бд 
+
+2024-04-03 19:07:14.2735 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата выезда' вводятся данные из бд 
+
+2024-04-03 19:07:14.2735 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'статус' вводятся данные из бд 
+
+2024-04-03 19:07:15.1245 | Hotel.MainForm.closeButton_Click | INFO | Происходит закрытие приложения 
+
+2024-04-03 19:07:28.9766 | Hotel.MainForm..ctor | TRACE | Заполнение списка из базы данных... 
+
+2024-04-03 19:07:29.0036 | Hotel.MainForm.FillListBoxWithGuests | TRACE | Используется  метод для заполненмия списка данными 
+
+2024-04-03 19:07:29.0036 | Hotel.MainForm.GetGuestsFromDatabase | INFO | Загрузка метода, возвращающего список из полученных данных 
+
+2024-04-03 19:07:29.0574 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 19:07:29.0574 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Запрос списка гостей с ID и именем 
+
+2024-04-03 19:07:29.0574 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 19:07:29.0574 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 19:07:29.0574 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 19:07:29.0574 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 19:07:29.0574 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 19:07:29.0574 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 19:07:29.0574 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 19:07:29.0574 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 19:07:29.0574 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 19:07:29.0574 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 19:07:29.0574 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 19:07:29.0574 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 19:07:29.0574 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Произошло присваивание элементам списка значений из базы данных 
+
+2024-04-03 19:07:29.0574 | Hotel.MainForm.GetGuestsFromDatabase | TRACE | Список успешно возвращен. Затраченное время(мс): 20 
+
+2024-04-03 19:07:29.0574 | Hotel.MainForm.FillListBoxWithGuests | TRACE | Список заполнен. Теперь список переносится в listbox 
+
+2024-04-03 19:07:29.0574 | Hotel.MainForm.LoadGuestData | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 19:07:29.0574 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'номер' вводятся данные из бд 
+
+2024-04-03 19:07:29.0574 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'фио' вводятся данные из бд 
+
+2024-04-03 19:07:29.0574 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата заезда' вводятся данные из бд 
+
+2024-04-03 19:07:29.0574 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата выезда' вводятся данные из бд 
+
+2024-04-03 19:07:29.0574 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'статус' вводятся данные из бд 
+
+2024-04-03 19:07:29.0574 | Hotel.MainForm..ctor | TRACE | Данные в таблицу успешно введены. Затраченное время(мс): 20 
+
+2024-04-03 19:07:29.1164 | Hotel.MainForm.MainForm_Load | TRACE | происходит загрузка таймера... 
+
+2024-04-03 19:07:29.1164 | Hotel.MainForm.MainForm_Load | TRACE | загрузка таймера прошла успешно. Затраченное время(мс): 20 
+
+2024-04-03 19:07:31.5822 | Hotel.MainForm.LoadGuestData | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 19:07:31.5822 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'номер' вводятся данные из бд 
+
+2024-04-03 19:07:31.5822 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'фио' вводятся данные из бд 
+
+2024-04-03 19:07:31.5822 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата заезда' вводятся данные из бд 
+
+2024-04-03 19:07:31.5822 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата выезда' вводятся данные из бд 
+
+2024-04-03 19:07:31.5822 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'статус' вводятся данные из бд 
+
+2024-04-03 19:07:32.4472 | Hotel.MainForm.LoadGuestData | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 19:07:32.4472 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'номер' вводятся данные из бд 
+
+2024-04-03 19:07:32.4472 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'фио' вводятся данные из бд 
+
+2024-04-03 19:07:32.4483 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата заезда' вводятся данные из бд 
+
+2024-04-03 19:07:32.4483 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата выезда' вводятся данные из бд 
+
+2024-04-03 19:07:32.4483 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'статус' вводятся данные из бд 
+
+2024-04-03 19:07:33.1262 | Hotel.MainForm.LoadGuestData | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 19:07:33.1262 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'номер' вводятся данные из бд 
+
+2024-04-03 19:07:33.1262 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'фио' вводятся данные из бд 
+
+2024-04-03 19:07:33.1262 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата заезда' вводятся данные из бд 
+
+2024-04-03 19:07:33.1262 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата выезда' вводятся данные из бд 
+
+2024-04-03 19:07:33.1262 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'статус' вводятся данные из бд 
+
+2024-04-03 19:07:34.1586 | Hotel.MainForm.LoadGuestData | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 19:07:34.1586 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'номер' вводятся данные из бд 
+
+2024-04-03 19:07:34.1586 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'фио' вводятся данные из бд 
+
+2024-04-03 19:07:34.1586 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата заезда' вводятся данные из бд 
+
+2024-04-03 19:07:34.1586 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата выезда' вводятся данные из бд 
+
+2024-04-03 19:07:34.1586 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'статус' вводятся данные из бд 
+
+2024-04-03 19:07:34.7987 | Hotel.MainForm.LoadGuestData | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 19:07:34.7987 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'номер' вводятся данные из бд 
+
+2024-04-03 19:07:34.7987 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'фио' вводятся данные из бд 
+
+2024-04-03 19:07:34.7987 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата заезда' вводятся данные из бд 
+
+2024-04-03 19:07:34.7987 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата выезда' вводятся данные из бд 
+
+2024-04-03 19:07:34.7987 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'статус' вводятся данные из бд 
+
+2024-04-03 19:07:35.5989 | Hotel.MainForm.LoadGuestData | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 19:07:35.5989 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'номер' вводятся данные из бд 
+
+2024-04-03 19:07:35.5989 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'фио' вводятся данные из бд 
+
+2024-04-03 19:07:35.5989 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата заезда' вводятся данные из бд 
+
+2024-04-03 19:07:35.5989 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата выезда' вводятся данные из бд 
+
+2024-04-03 19:07:35.5989 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'статус' вводятся данные из бд 
+
+2024-04-03 19:07:36.0466 | Hotel.MainForm.LoadGuestData | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 19:07:36.0466 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'номер' вводятся данные из бд 
+
+2024-04-03 19:07:36.0466 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'фио' вводятся данные из бд 
+
+2024-04-03 19:07:36.0466 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата заезда' вводятся данные из бд 
+
+2024-04-03 19:07:36.0466 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата выезда' вводятся данные из бд 
+
+2024-04-03 19:07:36.0466 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'статус' вводятся данные из бд 
+
+2024-04-03 19:07:36.5039 | Hotel.MainForm.LoadGuestData | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 19:07:36.5039 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'номер' вводятся данные из бд 
+
+2024-04-03 19:07:36.5039 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'фио' вводятся данные из бд 
+
+2024-04-03 19:07:36.5039 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата заезда' вводятся данные из бд 
+
+2024-04-03 19:07:36.5039 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата выезда' вводятся данные из бд 
+
+2024-04-03 19:07:36.5039 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'статус' вводятся данные из бд 
+
+2024-04-03 19:07:36.9913 | Hotel.MainForm.LoadGuestData | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 19:07:36.9913 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'номер' вводятся данные из бд 
+
+2024-04-03 19:07:36.9913 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'фио' вводятся данные из бд 
+
+2024-04-03 19:07:36.9913 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата заезда' вводятся данные из бд 
+
+2024-04-03 19:07:36.9913 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата выезда' вводятся данные из бд 
+
+2024-04-03 19:07:36.9913 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'статус' вводятся данные из бд 
+
+2024-04-03 19:07:37.4793 | Hotel.MainForm.LoadGuestData | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 19:07:37.4793 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'номер' вводятся данные из бд 
+
+2024-04-03 19:07:37.4793 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'фио' вводятся данные из бд 
+
+2024-04-03 19:07:37.4793 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата заезда' вводятся данные из бд 
+
+2024-04-03 19:07:37.4793 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата выезда' вводятся данные из бд 
+
+2024-04-03 19:07:37.4793 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'статус' вводятся данные из бд 
+
+2024-04-03 19:07:38.0314 | Hotel.MainForm.LoadGuestData | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 19:07:38.0314 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'номер' вводятся данные из бд 
+
+2024-04-03 19:07:38.0314 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'фио' вводятся данные из бд 
+
+2024-04-03 19:07:38.0314 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата заезда' вводятся данные из бд 
+
+2024-04-03 19:07:38.0314 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата выезда' вводятся данные из бд 
+
+2024-04-03 19:07:38.0314 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'статус' вводятся данные из бд 
+
+2024-04-03 19:07:38.5433 | Hotel.MainForm.LoadGuestData | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 19:07:38.5433 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'номер' вводятся данные из бд 
+
+2024-04-03 19:07:38.5433 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'фио' вводятся данные из бд 
+
+2024-04-03 19:07:38.5433 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата заезда' вводятся данные из бд 
+
+2024-04-03 19:07:38.5433 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата выезда' вводятся данные из бд 
+
+2024-04-03 19:07:38.5433 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'статус' вводятся данные из бд 
+
+2024-04-03 19:07:39.3263 | Hotel.MainForm.LoadGuestData | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 19:07:39.3263 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'номер' вводятся данные из бд 
+
+2024-04-03 19:07:39.3263 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'фио' вводятся данные из бд 
+
+2024-04-03 19:07:39.3263 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата заезда' вводятся данные из бд 
+
+2024-04-03 19:07:39.3263 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата выезда' вводятся данные из бд 
+
+2024-04-03 19:07:39.3263 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'статус' вводятся данные из бд 
+
+2024-04-03 19:07:40.2423 | Hotel.MainForm.LoadGuestData | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 19:07:40.2423 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'номер' вводятся данные из бд 
+
+2024-04-03 19:07:40.2423 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'фио' вводятся данные из бд 
+
+2024-04-03 19:07:40.2423 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата заезда' вводятся данные из бд 
+
+2024-04-03 19:07:40.2423 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата выезда' вводятся данные из бд 
+
+2024-04-03 19:07:40.2423 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'статус' вводятся данные из бд 
+
+2024-04-03 19:07:40.7534 | Hotel.MainForm.LoadGuestData | TRACE | Подключение с базой данных HotelDB установлено 
+
+2024-04-03 19:07:40.7534 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'номер' вводятся данные из бд 
+
+2024-04-03 19:07:40.7534 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'фио' вводятся данные из бд 
+
+2024-04-03 19:07:40.7534 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата заезда' вводятся данные из бд 
+
+2024-04-03 19:07:40.7534 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'дата выезда' вводятся данные из бд 
+
+2024-04-03 19:07:40.7534 | Hotel.MainForm.LoadGuestData | TRACE | В поле 'статус' вводятся данные из бд 
+
+2024-04-03 19:07:51.8689 | Hotel.MainForm.closeButton_Click | INFO | Происходит закрытие приложения 
+

@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Hotel\Hotel\bin\Debug\NLog.config
+C:\Users\user\source\repos\Hotel\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\user\source\repos\Hotel\Hotel\bin\Debug\Hotel.exe
+C:\Users\user\source\repos\Hotel\Hotel\bin\Debug\Hotel.pdb
+C:\Users\user\source\repos\Hotel\Hotel\bin\Debug\NLog.dll
+C:\Users\user\source\repos\Hotel\Hotel\bin\Debug\NLog.xml
+C:\Users\user\source\repos\Hotel\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Hotel\Hotel\obj\Debug\Hotel.MainForm.resources
+C:\Users\user\source\repos\Hotel\Hotel\obj\Debug\Hotel.GuestForm.resources
+C:\Users\user\source\repos\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+C:\Users\user\source\repos\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Hotel\Hotel\obj\Debug\Hotel.csproj.CopyComplete
+C:\Users\user\source\repos\Hotel\Hotel\obj\Debug\Hotel.exe
+C:\Users\user\source\repos\Hotel\Hotel\obj\Debug\Hotel.pdb
